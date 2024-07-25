@@ -5,7 +5,7 @@
 /tmp
 /out-tsc
 /bazel-out
-
+/build
 # Node
 /node_modules
 npm-debug.log
@@ -43,3 +43,6 @@ Thumbs.db
 # Server
 /server-dev
 /src
+
+#deploy
+*.sh
