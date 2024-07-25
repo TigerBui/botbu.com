@@ -1,1 +1,0 @@
-scp -P 24700 -r E:/Me/Dev-project/botbu.com/build root@103.75.184.106:/var/www/botbu.com
