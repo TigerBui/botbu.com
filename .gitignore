@@ -40,9 +40,6 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
-# Server
-/server-dev
-/src
 
 #deploy
 *.sh
